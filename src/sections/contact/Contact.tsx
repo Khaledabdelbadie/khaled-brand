@@ -42,9 +42,9 @@ const contactCards = [
     icon: Globe,
     title: "Website",
     value:
-      "khaledabdelbadie.github.io",
+      "khaledabdelbadie.vercel.app",
     href:
-      "https://khaledabdelbadie.github.io/personal_site/",
+      "https://khaled-brand.vercel.app/",
   },
 ];
 
