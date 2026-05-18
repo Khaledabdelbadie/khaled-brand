@@ -35,7 +35,7 @@ const contactCards = [
     value:
       "linkedin.com/in/khaledabdelbadie",
     href:
-      "https://linkedin.com/in/khaledabdelbadie",
+      "https://www.linkedin.com/in/khaled-abdelbadie-443529a1/",
   },
 
   {
